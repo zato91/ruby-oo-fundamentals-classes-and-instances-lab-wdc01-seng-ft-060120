@@ -1,1 +1,2 @@
-cPerson
+class Person
+end 
